@@ -1,0 +1,6 @@
+dependencies:
+  - name: style
+    version: 1
+    src: htmlwidgets/lib/slideView_style
+    stylesheet:
+      - style.css
